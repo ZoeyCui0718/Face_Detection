@@ -18,8 +18,8 @@ color = (0, 255, 0)
 # To detect faces
 faceRects = classifier.detectMultiScale(
     gray_image, scaleFactor=1.2, minNeighbors=3, minSize=(32, 32))
-if len(faceRects):  # 大于0则检测到人脸
-    for faceRect in faceRects:  # 单独框出每一张人脸
+if len(faceRects) > 0:  # If detecting faces
+    for faceRect in faceRects:
         x, y, w, h = faceRect
         # face
         cv2.rectangle(image, (x, y), (x + h, y + w), color, 2)
