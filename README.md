@@ -12,4 +12,4 @@ Some results:
 -----
 ![image](https://raw.githubusercontent.com/ZoeyCui0718/Face_Detection/master/2.jpg)
 ![image](https://raw.githubusercontent.com/ZoeyCui0718/Face_Detection/master/1.jpg)
-![video](https://github.com/ZoeyCui0718/Face_Detection/blob/master/video_test.mp4)
+![video](https://github.com/ZoeyCui0718/Face_Detection/blob/master/VideoTest.mp4)
