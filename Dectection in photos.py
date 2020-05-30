@@ -1,6 +1,6 @@
 import cv2
 
-filepath = "C:/Users/Zoey.Cui/Desktop/face2.jpg"
+filepath = "C:/Users/Zoey.Cui/Desktop/face1.jpg"
 
 # Read the image
 image = cv2.imread(filepath)
