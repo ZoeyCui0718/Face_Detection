@@ -1,7 +1,7 @@
 import cv2
-import tensorflow
 from keras.models import load_model
 import numpy as np
+import tensorflow
 
 filepath = "C:/Users/Zoey.Cui/Desktop/face1.jpg"
 
